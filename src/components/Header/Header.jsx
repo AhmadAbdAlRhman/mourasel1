@@ -42,7 +42,7 @@ const Header = () => {
                         </div>
                         <div className="col-xl-3 col-lg-3 col-md-6 col-6">
                             <div className="tp-header__right-two d-flex align-items-center justify-content-end">
-                                <a className="tp-btn-blue d-none d-lg-block" href="#"><span>login</span></a>
+                                <a className="tp-btn-blue d-none d-lg-block" href="#"><span>dfvnjdfknverkgnkjdfnva</span></a>
                                 <a className="tp-btn-blue d-none d-md-block" href="#"><span>pricing</span></a>
                                 <a className="tp-header__bars tp-menu-bar d-lg-none" href="#"><i className="far fa-bars"></i>   </a>
 
