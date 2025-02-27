@@ -27,8 +27,8 @@ const Home = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="row">
-                            <Features limit={6} />
+                        <div className="row w-100 m-0">
+                            <Features limit={9} />
                         </div>
                     </div>
                 </div>
